@@ -21,8 +21,7 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=czy67890&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=czy67890&theme=transparent&hide_border=true&layout=compact&langs_count=22
-&range=all_time" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=czy67890&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czy67890&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
