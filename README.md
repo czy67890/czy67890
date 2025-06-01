@@ -32,7 +32,6 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/czy67890"><img src="https://img.shields.io/badge/GitHub-czy67890-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=czy67890&abbreviated=true&color=yellow" />
 </p>
