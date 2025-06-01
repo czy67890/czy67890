@@ -2,7 +2,7 @@
 This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen with a solid understanding of C++ application development. Currently responsible for Linux device power consumption optimization.
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Welcome}&fontSize=90&fontAlign=50&fontAlignY=30&desc={collin.chen's github home page}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={WELCOME}&fontSize=90&fontAlign=50&fontAlignY=70&desc={COLLIN.CHEN'S HOME PAGE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 <div align="center">
@@ -16,6 +16,4 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+
