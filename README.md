@@ -29,8 +29,7 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy67890)](https://github.com/anuraghazra/github-readme-stats)
- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/badges/shields -->
