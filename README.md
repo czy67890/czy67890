@@ -42,9 +42,6 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy67890)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 
 
