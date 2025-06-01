@@ -8,4 +8,4 @@ This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen
 </div>
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=czy67890&theme=xcode" /> </div>
