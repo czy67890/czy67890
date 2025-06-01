@@ -1,11 +1,8 @@
 ## Hi there 👋
 This is Collin Chen's GitHub homepage.An embedded systems engineer from Shenzhen with a solid understanding of C++ application development. Currently responsible for Linux device power consumption optimization.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={COLLIN.CHEN'S_HOME_PAGE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={WELCOME}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy67890)](https://github.com/czy67890/github-readme-stats)
+[![collin.chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=czy67890)](https://github.com/czy67890/github-readme-stats)
 
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=czy67890&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
